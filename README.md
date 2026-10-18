@@ -14,7 +14,7 @@
 
 ## O que é
 
-Organizador de IRPF em Excel: validações, hiperlinks e consolidado automático | Tax return organizer in Excel
+Organizador de IRPF em Excel: validações, hiperlinks e consolidado automático
 
 ---
 
